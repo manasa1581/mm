@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>manasa</title>
+</head>
+<body>
+
+<h1>Manasa Resume</h1>
+<p>I am currently enrolled in masters in computer sceinece</p>
+<h2>HTML Image</h2>
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+
+</body>
+</html>
